@@ -1,2 +1,2 @@
 # CItesting
-my CI job testing,test
+my CI job testing
